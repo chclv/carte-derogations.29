@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "AP n°2024-019 - Lannilis",
+        "date": "2024-02-10",
+        "effluent": "Lisier porcin",
+        "distance": "500 m",
+        "zone": "Aber Benoît"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.561, 48.578]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "AP n°2024-042 - Penmarc'h",
+        "date": "2024-04-15",
+        "effluent": "Fumier équin",
+        "distance": "300 m",
+        "zone": "Baie d'Audierne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.338, 47.812]
+      }
+    }
+  ]
+}
