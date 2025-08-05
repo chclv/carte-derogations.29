@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "AP n°2025-005 - Plouescat",
+        "date": "2025-01-20",
+        "effluent": "Lisier bovin",
+        "distance": "450 m",
+        "zone": "Baie du Kernic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.183, 48.633]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "AP n°2025-028 - Loctudy",
+        "date": "2025-03-22",
+        "effluent": "Fumier ovin",
+        "distance": "350 m",
+        "zone": "Anse de Loctudy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.165, 47.833]
+      }
+    }
+  ]
+}
