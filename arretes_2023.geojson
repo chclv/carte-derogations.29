@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "AP n°2023-011 - Plouguerneau",
+        "date": "2023-01-16",
+        "effluent": "Lisier bovin",
+        "distance": "400 m",
+        "zone": "Aber Wrac’h"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.561, 48.603]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "AP n°2023-034 - Tréguier",
+        "date": "2023-03-03",
+        "effluent": "Fumier caprin",
+        "distance": "250 m",
+        "zone": "Estuaire du Jaudy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.233, 48.787]
+      }
+    }
+  ]
+}
